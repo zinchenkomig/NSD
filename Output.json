@@ -1,0 +1,32 @@
+market_name,market_title,engine,tradedate,secid,value,volume,numtrades,
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<data id="aggregates">
+<metadata>
+<columns>
+<column name="market_name" type="string" bytes="45" max_size="0" />
+<column name="market_title" type="string" bytes="765" max_size="0" />
+<column name="engine" type="string" bytes="45" max_size="0" />
+<column name="tradedate" type="date" bytes="10" max_size="0" />
+<column name="secid" type="string" bytes="36" max_size="0" />
+<column name="value" type="double" />
+<column name="volume" type="int64" />
+<column name="numtrades" type="int64" />
+</columns>
+</metadata>
+<rows>
+</rows>
+</data>
+<data id="agregates.dates">
+<metadata>
+<columns>
+<column name="from" type="date" bytes="30" max_size="0" />
+<column name="till" type="date" bytes="30" max_size="0" />
+</columns>
+</metadata>
+<rows>
+<row from="2013-02-04" till="2020-07-10" />
+</rows>
+</data>
+</document>
+

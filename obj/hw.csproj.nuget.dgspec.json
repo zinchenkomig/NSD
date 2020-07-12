@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/madman/Documents/C#/hw/hw.csproj": {}
+  },
+  "projects": {
+    "/home/madman/Documents/C#/hw/hw.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/madman/Documents/C#/hw/hw.csproj",
+        "projectName": "hw",
+        "projectPath": "/home/madman/Documents/C#/hw/hw.csproj",
+        "packagesPath": "/home/madman/.nuget/packages/",
+        "outputPath": "/home/madman/Documents/C#/hw/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/madman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "JSON.NET": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

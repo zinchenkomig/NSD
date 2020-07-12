@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0s+KnT4Wj0Ufp71m8UBTfLsFP07QZR84f5ixTXvQ6WkUQ7r9IkRl/4guSAQomnOjZyuAR8a62liP99k6WZEFHw==",
+  "success": true,
+  "projectFilePath": "/home/madman/Documents/C#/hw/hw.csproj",
+  "expectedPackageFiles": [
+    "/home/madman/.nuget/packages/json.net/1.0.23/json.net.1.0.23.nupkg.sha512",
+    "/home/madman/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/madman/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

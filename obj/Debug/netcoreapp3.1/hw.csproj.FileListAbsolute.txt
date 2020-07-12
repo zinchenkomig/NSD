@@ -1,0 +1,17 @@
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/hw
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/hw.deps.json
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/hw.runtimeconfig.json
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/hw.runtimeconfig.dev.json
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/hw.dll
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/hw.pdb
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.csprojAssemblyReference.cache
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.AssemblyInfoInputs.cache
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.AssemblyInfo.cs
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.csproj.CoreCompileInputs.cache
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.dll
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.pdb
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.genruntimeconfig.cache
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/madman/Documents/C#/hw/obj/Debug/netcoreapp3.1/hw.csproj.CopyComplete
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/Json.Net.dll
+/home/madman/Documents/C#/hw/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
